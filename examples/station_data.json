@@ -1,0 +1,8 @@
+{
+  "name": "Some station",
+  "location": {
+    "type": "point",
+    "coordinates": [ 13.400544, 52.530286 ]
+  },
+  "country": "DE"
+}

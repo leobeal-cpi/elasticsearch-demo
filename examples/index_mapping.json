@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "properties": {
+      "location": {
+        "type": "geo_shape"
+      },
+      "name": {
+        "type": "text"
+      },
+      "country": {
+        "type": "keyword"
+      }
+    }
+  }
+}
